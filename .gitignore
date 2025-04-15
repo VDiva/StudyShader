@@ -1,0 +1,11 @@
+*.idea
+*.config
+/Library
+/obj
+/Temp
+/*.csproj
+*.meta
+/Logs
+/Logs
+Assets/.DS_Store
+.DS_Store
